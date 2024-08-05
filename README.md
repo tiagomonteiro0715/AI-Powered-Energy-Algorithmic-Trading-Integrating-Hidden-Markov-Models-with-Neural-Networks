@@ -2,7 +2,9 @@
 
 #### DISCLAMER: This trading algorithm is provided for research purposes only and does not constitute financial advice. Trading in financial markets involves substantial risk and is not suitable for every investor. Past performance is not indicative of future results. The author assumes no responsibility for any financial losses or damages incurred as a result of using this software. Use at your own risk.
 
-*Full code and backtest data in the quantconnect plataform to garantee scientific reproduction*: https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_68f71147c8b5a8948dd3884c33e06c41.html
+*Full code and backtest data in the quantconnect plataform to garantee scientific reproduction*: 
+
+- https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_68f71147c8b5a8948dd3884c33e06c41.html
 
 Article ArXiv: https://arxiv.org/abs/2407.19858 
 
