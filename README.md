@@ -6,7 +6,7 @@
 
 *Full code and backtest data in the quantconnect plataform to garantee scientific reproduction*: 
 
-- https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_68f71147c8b5a8948dd3884c33e06c41.html
+- https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_902a6749e9525fde9b51cc4efe7f2954.html
 
 Article ArXiv: https://arxiv.org/abs/2407.19858 
 
